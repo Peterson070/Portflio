@@ -1,0 +1,15 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+img{
+    width: 960px;
+    height: 250px;
+    
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
